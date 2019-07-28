@@ -28,6 +28,7 @@ const PostLink = ({ post }) => (
 
       a:hover {
         opacity: 0.6;
+        transform: scale(2);
       }
     `}</style>
   </li>
